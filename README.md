@@ -1,2 +1,2 @@
 # transceiver-bladerf
-transceiver-bladerf for openbts 
+transceiver-bladerf for openbts
